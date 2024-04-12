@@ -95,5 +95,4 @@ public class DbConnectSample05 {
 		}
 		return line;
 	}
-
 }
